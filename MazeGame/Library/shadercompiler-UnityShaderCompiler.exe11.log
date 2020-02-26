@@ -1,0 +1,38 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=10288 outsize=4306 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15915 outsize=6667 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4528 outsize=695 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=22295 outsize=15906 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11554 outsize=5613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26542 outsize=15879 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=45543 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=38927 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3697 outsize=4319 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26999 outsize=15416 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2557 outsize=757 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11045 outsize=9644 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Portal2.vfx(10): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/HDRP/VFXDefines.hlsl'
+  api=4 insize=8100 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=7335 outsize=5189 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Portal2.vfx(15): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Legacy/VFXDefines.hlsl'
+  api=4 insize=8706 outsize=0 ok=0
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

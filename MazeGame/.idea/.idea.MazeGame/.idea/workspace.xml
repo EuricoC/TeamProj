@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aad23cb-4587-48de-b3eb-58748ba0bb1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/VR/SteamVR/InteractionSystem/Core/Scripts/CircularDrive.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HoldingBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR/SteamVR/Input/SteamVR_Behaviour_Pose.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMov.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Temp/VFX-Shader-Portal2-[System 1]Update Particle.compute" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SnappingCD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VR/SteamVR/Scripts/SteamVR_Fade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FogOfWar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeverTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovF.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovZ.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeaverTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/VR/SteamVR/InteractionSystem/Core/Scripts/CircularDrive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SnappingCD.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMov.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeverTrigger.cs" />
+        <option value="$PROJECT_DIR$/Temp/VFX-Shader-Portal2-[System 1]Update Particle.compute" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FogOfWar.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1SmGUaH6Uii6uNgEAtoK1ANgi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aad23cb-4587-48de-b3eb-58748ba0bb1f" name="Default Changelist" comment="" />
+      <created>1582108764807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582108764807</updated>
+      <workItem from="1582108766195" duration="10792000" />
+      <workItem from="1582127329238" duration="105000" />
+      <workItem from="1582189276603" duration="7044000" />
+      <workItem from="1582542643227" duration="6858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="765" y="215" key="RiderGenerateDialog" timestamp="1582118546402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="215" key="RiderGenerateDialog/0.0.1920.1080/-1080.-155.1080.1920@0.0.1920.1080" timestamp="1582118546402" />
+  </component>
+</project>

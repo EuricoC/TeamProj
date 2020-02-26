@@ -1,0 +1,19 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=5168 outsize=1297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=33162 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=43283 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12177 outsize=1307 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1977 outsize=1220 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Portal2.vfx(14): failed to open source file: 'Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/Legacy/VFXDefines.hlsl'
+  api=4 insize=9911 outsize=0 ok=0
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
